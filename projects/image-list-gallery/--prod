@@ -1,0 +1,16 @@
+Building Angular Package
+******************************************************************************
+It is not recommended to publish Ivy libraries to NPM repositories.
+Read more here: https://v9.angular.io/guide/ivy#maintaining-library-compatibility
+******************************************************************************
+
+------------------------------------------------------------------------------
+Building entry point 'image-list-gallery'
+------------------------------------------------------------------------------
+Compiling image-component-asad : es2015 as esm2015
+
+------------------------------------------------------------------------------
+Built Angular Package
+ - from: C:\Users\Allied\test-packages\projects\image-list-gallery
+ - to:   C:\Users\Allied\test-packages\dist\image-list-gallery
+------------------------------------------------------------------------------

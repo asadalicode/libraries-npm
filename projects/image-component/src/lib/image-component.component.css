@@ -1,0 +1,18 @@
+.image{
+  width: fit-content;
+  height: fit-content;
+}
+
+.flex-container{
+    display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-shrink: 1;
+  width: min-content;
+  max-width: fit-content;
+
+}
+
+.text-center{
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "image-list-widget-asad",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^11.0.9",
+    "@angular/core": "^11.0.9"
+  },
+  "dependencies": {
+    "image-component-asad": "0.0.2",
+    "tslib": "^2.0.0"
+  },
+  "bundleDependencies": [
+    "image-component-asad"
+  ],
+  "devDependencies": {
+    "image-component-asad": "0.0.2"
+  },
+  "peerDependenciesMeta": {
+    "image-component-asad": {
+      "optional": false
+    }
+  }
+}

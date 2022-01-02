@@ -1,0 +1,13 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/image-list-widget",
+  "lib": {
+    "entryFile": "src/public-api.ts"
+  },
+  "allowedNonPeerDependencies": [
+    "image-component-asad"
+  ],
+  "whitelistedNonPeerDependencies": [
+    "image-component-asad"
+  ]
+}

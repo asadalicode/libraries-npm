@@ -1,0 +1,29 @@
+{
+  "name": "image-list-gallery-asad",
+  "version": "0.0.5",
+  "peerDependencies": {
+    "@angular/common": "^11.0.9",
+    "@angular/core": "^11.0.9"
+  },
+  "dependencies": {
+    "image-component-asad": "0.0.1",
+    "image-list-widget-asad": "0.0.3",
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "image-component-asad": "0.0.1",
+    "image-list-widget-asad": "0.0.3"
+  },
+  "bundleDependencies": [
+    "image-component-asad",
+    "image-list-widget-asad"
+  ],
+  "peerDependenciesMeta": {
+    "image-component-asad": {
+      "optional": false
+    },
+    "image-list-widget-asad": {
+      "optional": false
+    }
+  }
+}
